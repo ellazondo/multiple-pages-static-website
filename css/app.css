@@ -1,3 +1,25 @@
 body {
-  background: blueviolet;
+  background-color: antiquewhite;
+}
+
+h1 {
+  text-align: center;
+}
+
+p {
+  text-align: center;
+}
+
+.navigation {
+  display: flex;
+  justify-content: space-around;
+}
+
+img {
+  max-width: 100%;
+}
+
+.croissant-img {
+  display: flex;
+  justify-content: space-around;
 }
